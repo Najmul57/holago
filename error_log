@@ -1,0 +1,16 @@
+[04-Nov-2023 07:35:57 UTC] PHP Warning:  require(/home/holago/mzsonnet.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/holago/mzsonnet.com/index.php on line 34
+[04-Nov-2023 07:35:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/holago/mzsonnet.com/../vendor/autoload.php' (include_path='.:/usr/local/apps/php82/lib/php') in /home/holago/mzsonnet.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/holago/mzsonnet.com/index.php on line 34
+[04-Nov-2023 07:36:03 UTC] PHP Warning:  require(/home/holago/mzsonnet.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/holago/mzsonnet.com/index.php on line 34
+[04-Nov-2023 07:36:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/holago/mzsonnet.com/../vendor/autoload.php' (include_path='.:/usr/local/apps/php82/lib/php') in /home/holago/mzsonnet.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/holago/mzsonnet.com/index.php on line 34
+[04-Nov-2023 14:56:30 Asia/Dhaka] PHP Fatal error:  Cannot use Xenon\LaravelBDSms\Provider\Ssl as Ssl because the name is already in use in /home/holago/mzsonnet.com/app/Http/Controllers/Auth/RegisterController.php on line 18
+[05-Nov-2023 15:08:16 Asia/Dhaka] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/holago/mzsonnet.com/app/Http/Controllers/Auth/RegisterController.php on line 123
+[05-Nov-2023 15:08:16 Asia/Dhaka] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/holago/mzsonnet.com/app/Http/Controllers/Auth/RegisterController.php on line 123
+[16-Nov-2023 05:07:43 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/holago/public_html/vendor/composer/platform_check.php on line 24
+[24-Feb-2024 05:13:27 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/holago/public_html/vendor/composer/platform_check.php on line 24
+[14-Mar-2024 11:39:08 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/holago/public_html/vendor/composer/platform_check.php on line 24
